@@ -2,7 +2,7 @@
 
 first crack at building an automatic invite flow from twitter -> slack.  this is the twitter daemon part, which is going to be built on top of python-twitter [TODO add href, etc]
 
-## with python3, setting up your project virtual env sandbox is virtually painless... (ha.ha.)
+## with python3, setting up your project virtual env sandbox is virtually painless... (pun intended)
 
 
 * yeah, so, with python3, where $DIR is the base dir of your local copy of this very repo(such that this README.md is at $DIR/README.md),
